@@ -1,5 +1,5 @@
 # AZ-Assigment
-![Screenshot1](./public/AZ-Task1.png)
+![Screenshot1](./public/AZ-Assignment.png)
 
 ## Demo
 You can try out the Real-Time Code Editor by visiting the [demo page](https://672b339e491ba90ab0dfbbd8--algozenith-by-naman.netlify.app/).
